@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auzeda/mock-quiz-project.git"
+    "url": "git+https://github.com/Notysimo/mock-quiz-project"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/auzeda/mock-quiz-project/issues"
+    "url": "https://github.com/Notysimo/mock-quiz-project"
   },
-  "homepage": "https://github.com/auzeda/mock-quiz-project#readme"
+  "homepage": "https://github.com/Notysimo/mock-quiz-project#readme"
 }
